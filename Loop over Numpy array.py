@@ -7,4 +7,4 @@ for elements in np_height :
 
 # For loop over np_baseball
 for elements in np.nditer(np_baseball):
-    print(np_baseball)
+    print(elements)
