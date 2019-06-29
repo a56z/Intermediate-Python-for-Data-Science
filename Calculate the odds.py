@@ -1,0 +1,1 @@
+print(np.count_nonzero(ends >= 60) / len(ends))
